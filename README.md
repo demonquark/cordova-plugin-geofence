@@ -1,5 +1,10 @@
 # Cordova Geofence Plugin
 
+---
+
+Modified plugin.xml to reference legacy google play services and swift version 
+
+---
 ###This Plugin is an extension from: [cordova-plugin-geofence](https://github.com/cowbell/cordova-plugin-geofence)
 
 ---
